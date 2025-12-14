@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "CRAZY NOISY BIZARRE TOWN",
+  "base_artist": "THE DU",
+  "createdAt": "2025-12-14T17:48:42.602471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/01_Crazy_Noisy_Bizarre_Town_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "Jojo",
+      "has_synced": true,
+      "path": "select/02_Crazy_Noisy_Bizarre_Town_Jojo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "Jonathan Young",
+      "has_synced": false,
+      "path": "select/03_Crazy_Noisy_Bizarre_Town_Jonathan_Young.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "Jonathan Young, Insaneintherain",
+      "has_synced": true,
+      "path": "select/04_Crazy_Noisy_Bizarre_Town_Jonathan_Young,_Insaneintherain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "Jonathan Young & insaneintherainmusic",
+      "has_synced": true,
+      "path": "select/05_Crazy_Noisy_Bizarre_Town_Jonathan_Young_&_insaneintherainmusic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/06_Crazy_Noisy_Bizarre_Town_PelleK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "Jonathan Young & insaneintherainmusic",
+      "has_synced": true,
+      "path": "select/07_Crazy_Noisy_Bizarre_Town_Jonathan_Young_&_insaneintherainmusic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/08_CRAZY_NOISY_BIZARRE_TOWN_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town (feat. Insaneintherain)",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/09_Crazy_Noisy_Bizarre_Town_(feat._Insaneintherain)_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN",
+      "artist": "THE DU - Topic",
+      "has_synced": true,
+      "path": "select/10_CRAZY_NOISY_BIZARRE_TOWN_THE_DU_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/11_CRAZY_NOISY_BIZARRE_TOWN_THE_DU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Noisy Bizarre Town",
+      "artist": "THE DU",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Noisy_Bizarre_Town_THE_DU.txt"
+    }
+  ]
+}
